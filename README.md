@@ -1,4 +1,14 @@
 # RoboticGripper
+An example for 2156
+Strategy
+ - Pick up a cup without breaking it
+ - Be able to shake someones hand
+ - be able to squish a cup
+Concept
+Module
+Components
+Drawings
+
 Development of a robotic gripper
 
 This shows the development of a robotic gripper.
